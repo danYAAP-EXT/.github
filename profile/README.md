@@ -20,7 +20,7 @@ All core source trees, manifests, and main structures are tracked and aligned wi
 
 ## Credits
 
-* **[YAAP (Yet Another AOSP Project)](https://github.com/yaap/)** - Original source and core foundation
+* **[YAAP (Yet Another AOSP Project)](https://github.com/yaap/)** - original source
 * **LineageOS**
 * **Halcyon Project**
 * **Evolution-X**
