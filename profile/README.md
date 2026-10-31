@@ -4,7 +4,7 @@
 
 # danYAAP Extended
 
-**A Forked AOSP Custom ROM based on YAAP**
+**A Forked AOSP based on YAAP**
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## About danYAAP
 
-**danYAAP** is an Android Open Source Project (AOSP) custom ROM directly forked from the official **[YAAP (Yet Another AOSP Project)](https://github.com/yaap/)** source. The goal is to provide a clean, smooth, and lightweight Android experience with personalized tweaks.
+**danYAAP** is an Android Open Source Project (AOSP) directly forked from the **[YAAP (Yet Another AOSP Project)](https://github.com/yaap/)** source. The goal is to provide a clean, smooth, and lightweight Android experience with personalized tweaks.
 
-All core source trees, manifests, and main structures are tracked and aligned with upstream YAAP.
+All core source trees, manifests, and main structures are tracked and aligned with YAAP.
 
 ---
 
