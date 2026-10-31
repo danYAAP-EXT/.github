@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 About danYAAP
+## About danYAAP
 
 **danYAAP** is an Android Open Source Project (AOSP) custom ROM directly forked from the official **[YAAP (Yet Another AOSP Project)](https://github.com/yaap/)** source. The goal is to provide a clean, smooth, and lightweight Android experience with personalized tweaks.
 
